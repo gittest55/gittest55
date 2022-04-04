@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **react,c++,c,js,java**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

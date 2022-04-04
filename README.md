@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">A passionate Full Stack developer ||Machine learning Dev|| Native Android Dev.|| Cross Platform Developer(React, Flutter)</h3>
 
-- 🔭 I’m currently working on **Weather web+app**
+- 🔭 I’m currently working on **Weather Website + App**
 
 - 🌱 I’m currently learning **PHP ,Machine Learning**
 
-- 💬 Ask me about **react,c++,c,js,java**
+- 💬 Ask me about ** React, C++, C,Js,Java**
 
 <p align="left">
 </p>
